@@ -1,0 +1,9 @@
+enable maven plugin
+
+
+
+
+Important notes:
+- run -> $jenv enable-plugin maven
+- Remember to rename your settings.xml and repository folder before to settings-bk.xml and repository-bk and/or settings-tdp.xml and repository-tdp To avoid problems with your local env setup
+- use jenv to toggle between java versions
